@@ -1,34 +1,25 @@
-<div align="center" >
-  <img src="./docs/assets/logo.png" width="200">
-</div>
+<h1 align="center">Minha Carteira - Dashboard</h1>
 
 
-Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
+## ✨ Tecnologias
 
-<div align="center" >
-  <img src="./docs/assets/minhacarteirapreview.gif">
-</div>
+A aplicação foi desenvolvida em:
 
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
 
+## 🚀 Como utilizar o projeto
 
+- Clone o repositório e acesse a pasta;
+- Instale as dependências com `yarn`;
+- Inicie o servidor com `yarn dev`;
+
+A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
 
-### Layout & Componentes Responsivos
-
-<div align="center" >
-  <img src="./docs/assets/resposiveview.png">
-</div>
-
-- [x] Link do prototipo desenvolvido no [**Figma**](https://www.figma.com/file/nOGmUkhcINJt6nd57R4ENu/Untitled?node-id=0%3A1).
-
-### Layout & Componentes Responsivos
+## 📄 Layout & Componentes Responsivos
 
 - [x] Para os gráficos, foi utilizada a bibliteca [**Recharts**](http://recharts.org/en-US) que é opensource.
 - [x] Para efeito de número crescendo eu utilizei o [**React CountUp**](https://www.npmjs.com/package/react-countup).
-
-
-<div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
-</div>
